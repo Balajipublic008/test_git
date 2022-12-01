@@ -6,7 +6,7 @@
   <p><a href="https://www.facebook.com/">Facebook</a></p>
 
   <p><a href="https://in.linkedin.com/in/balaji-majji-294850254?trk=people-guest_people_search-card">Balaji_Majji/Linkedin</a></p>
-  <p><a href="https://en-gb.facebook.com/prasad.nml">Krishna_Prasad_Majji/Linkedin</a></p>
+  <p><a href="https://en-gb.facebook.com/prasad.nml">Krishna_Prasad_Majji/Facebook</a></p>
 
   </body>
 </html>
