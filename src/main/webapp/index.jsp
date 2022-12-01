@@ -1,9 +1,8 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT - Best Software Training Institute in India <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='red'>Welcome to Balaji Majji and majji Solutions  <font></h1>
+<h2><font color='blue'>This is my fist git and jenkin build file  </h2>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
 
 </body>
 </html>
