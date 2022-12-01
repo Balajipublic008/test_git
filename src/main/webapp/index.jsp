@@ -2,7 +2,7 @@
 <body>
 <h1><font color='red'>Welcome to Balaji Majji and majji Solutions  <font></h1>
 <h2><font color='blue'>This is my fist git and jenkin build file  </h2>
-  <marquee><font color='yellow'> MAJJI SOLUTIONS </marquee>
+  <marquee><font color='darkcyan'> MAJJI SOLUTIONS </marquee>
     <marquee direction="right" 
         behavior="alternate" 
         style="border:BLACK 2px SOLID"><font color='blueviolet'>
