@@ -5,7 +5,7 @@
   <marquee><font color='yellow'> MAJJI SOLUTIONS </marquee>
     <marquee direction="right" 
         behavior="alternate" 
-        style="border:BLACK 2px SOLID"><font color='BLUEVIOLET'>
+        style="border:BLACK 2px SOLID"><font color='blueviolet'>
         Geeks for Geeks
     </marquee>
 
