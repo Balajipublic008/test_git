@@ -6,7 +6,7 @@
     <marquee direction="right" 
         behavior="alternate" 
         style="border:BLACK 2px SOLID"><font color='blueviolet'>
-        Geeks for Geeks
+        Balaji done it first time 
     </marquee>
 
   <p><a href="https://www.facebook.com/">Facebook</a></p>
