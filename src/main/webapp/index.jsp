@@ -6,7 +6,7 @@
     <marquee direction="right" 
         behavior="alternate" 
         style="border:BLACK 2px SOLID"><font color='blueviolet'>
-        Balaji First Build from tomcat 
+        Balaji & Mohit Doing Build from tomcat 
     </marquee>
 
   <p><a href="https://www.facebook.com/">Facebook</a></p>
